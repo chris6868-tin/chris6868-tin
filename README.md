@@ -49,6 +49,7 @@ I combine deep domain knowledge in Pharmaceutical Sciences (GMP/GLP, Clinical Tr
 |--------------|-------------|------------|
 | [**📁 Financial Data ETL Pipeline**](https://github.com/chris6868-tin/Project_ETL_Banks) | **Data Engineering:** Automated pipeline to extract, transform, and load banking transaction data. | `Python` `Pandas` `SQL` `ETL` |
 | [**📁 Huffman Coding Compression**](https://github.com/chris6868-tin/Huffman-Coding-Compression) | **Algorithms:** File compression tool implementation using Huffman algorithm to optimize storage. | `C++` `Python` `Data Structures` |
+| [**📁 DNA Sequence Analysis Tool**](https://github.com/chris6868-tin/DNA-Sequence-Analysis-Tool) | **Bioinformatics:** Developed a Python script to parse FASTA files, calculate GC content, and identify motif patterns in DNA sequences. | `Python` `Biopython` `Pandas`|
 | [**📁 Karaoke Management System**](https://github.com/chris6868-tin/Karaoke-Management-System) | **System Design:** OOP-based management system handling bookings, billing, and inventory data flow. | `Python` `OOP` `SQL` |
 
 ---
