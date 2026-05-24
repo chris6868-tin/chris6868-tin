@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&center=true&width=500&lines=Bridging+Pharma+Science+and+Tech;Analyzing+Clinical+Data+with+Python;Building+ETL+Pipelines+&+Algorithms;Optimizing+Healthcare+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&center=true&width=500&lines=Bridging+Pharma+Science+and+Tech;Analyzing+Clinical+Data+with+Python;Building+ETL+Pipelines;Developing+Healthcare+Solutions" alt="Typing SVG" />
 </p>
 
 ---
@@ -15,7 +15,7 @@
 I am a **Pharmacist with 2 years of R&D experience** currently transitioning into **Computational Science**. 
 I combine deep domain knowledge in Pharmaceutical Sciences (GMP/GLP, Clinical Trials) with rigorous Computer Science training (Algorithms, Data Structures, System Design).
 
-- 🔭 I’m currently working on **Data Pipelines (ETL)** and **Algorithm Optimization**.
+- 🔭 I'm currently working on **Data Pipelines (ETL)** and **Algorithm Optimization**.
 - 🧬 My goal: To solve complex data problems in **Healthcare, Drug Discovery, and Bioinformatics**.
 - 🛠️ Tech Stack: **Python (Pandas/NumPy), C++, SQL, Linux**.
 - 🌱 Learning: **Machine Learning for Healthcare** & **Advanced Cloud Computing**.
@@ -47,10 +47,11 @@ I combine deep domain knowledge in Pharmaceutical Sciences (GMP/GLP, Clinical Tr
 
 | Project Name | Description | Tech Stack |
 |--------------|-------------|------------|
-| [**📁 Financial Data ETL Pipeline**](https://github.com/chris6868-tin/Project_ETL_Banks) | **Data Engineering:** Automated pipeline to extract, transform, and load banking transaction data. | `Python` `Pandas` `SQL` `ETL` |
-| [**📁 Huffman Coding Compression**](https://github.com/chris6868-tin/Huffman-Coding-Compression) | **Algorithms:** File compression tool implementation using Huffman algorithm to optimize storage. | `C++` `Python` `Data Structures` |
-| [**📁 DNA Sequence Analysis Tool**](https://github.com/chris6868-tin/DNA-Sequence-Analysis-Tool) | **Bioinformatics:** Developed a Python script to parse FASTA files, calculate GC content, and identify motif patterns in DNA sequences. | `Python` `Biopython` `Pandas`|
-| [**📁 Karaoke Management System**](https://github.com/chris6868-tin/Karaoke-Management-System) | **System Design:** OOP-based management system handling bookings, billing, and inventory data flow. | `Python` `OOP` `SQL` |
+| [**📁 PharmaTrack**](https://github.com/chris6868-tin/PharmaTrack) | **Healthcare:** Pharmaceutical inventory tracking and management system with compliance monitoring. | `Python`, `SQL`, `Data Pipelines` |
+| [**📁 NewsBot**](https://github.com/chris6868-tin/NewsBot) | **Web Scraping & NLP:** Automated news aggregation and sentiment analysis bot. | `Python`, `NLP`, `Web Scraping` |
+| [**📁 Financial Data ETL Pipeline**](https://github.com/chris6868-tin/Project_ETL_Banks) | **Data Engineering:** Automated pipeline to extract, transform, and load banking transaction data. | `Python`, `Pandas`, `ETL` |
+| [**📁 DNA Sequence Analysis Tool**](https://github.com/chris6868-tin/DNA-Sequence-Analysis-Tool) | **Bioinformatics:** Developed a Python script to parse FASTA files, calculate GC content, and identify sequences. | `Python`, `Bioinformatics` |
+| [**📁 Huffman Coding Compression**](https://github.com/chris6868-tin/Huffman-Coding-Compression) | **Algorithms:** File compression tool implementation using Huffman algorithm to optimize storage. | `C++`, `Algorithms` |
 
 ---
 
@@ -62,7 +63,7 @@ I combine deep domain knowledge in Pharmaceutical Sciences (GMP/GLP, Clinical Tr
 
 ---
 
-### 🤝 Let’s Connect!
+### 🤝 Let's Connect!
 <p align="center">
   <a href="https://www.linkedin.com/in/tr%C6%B0%C6%A1ng-tin-ba249a221/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="mailto:ttin9199@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-c14438?style=for-the-badge&logo=gmail" /></a>
