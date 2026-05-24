@@ -55,14 +55,6 @@ I combine deep domain knowledge in Pharmaceutical Sciences (GMP/GLP, Clinical Tr
 
 ---
 
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chris6868-tin&show_icons=true&theme=radical&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chris6868-tin&layout=compact&theme=radical" height="150"/>
-</div>
-
----
-
 ### 🤝 Let's Connect!
 <p align="center">
   <a href="https://www.linkedin.com/in/tr%C6%B0%C6%A1ng-tin-ba249a221/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
