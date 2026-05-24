@@ -57,7 +57,7 @@ I combine deep domain knowledge in Pharmaceutical Sciences (GMP/GLP, Clinical Tr
 
 ### 🤝 Let's Connect!
 <p align="center">
-  <a href="https://www.linkedin.com/in/tr%C6%B0%C6%A1ng-tin-ba249a221/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/tin-truong-ngoc"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="mailto:ttin9199@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-c14438?style=for-the-badge&logo=gmail" /></a>
 </p>
 
